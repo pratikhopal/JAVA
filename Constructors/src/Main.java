@@ -10,6 +10,6 @@ public class Main {
         dog2.displayInfo();
         dog1.displayInfo();
         dog3.displayInfo();
-        dog4.displayInfo();
+        
     }
 }
