@@ -6,8 +6,10 @@ public class Main {
         Animal dog1 = new Animal();
         Animal dog2 = new Animal("tommy","labrador");
         Animal dog3 = new Animal("rocky");
+        Animal dog4 = new Animal("max","labrador");
         dog2.displayInfo();
         dog1.displayInfo();
         dog3.displayInfo();
+        dog4.displayInfo();
     }
 }
